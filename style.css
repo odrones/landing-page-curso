@@ -1,0 +1,210 @@
+.jumbotron .titulo-topo, .jumbotron p {
+  font-size: 31px;
+  text-align: center;
+  color: white;
+  margin: 0px;
+  font-weight: 700;
+}
+
+h2 {
+font-size: 31px;
+text-align: center;
+color: white;
+margin: 0px;
+font-weight: 700;
+color: #47b364;
+}
+
+.alignLeft {
+text-align: left;
+}
+
+#intro {
+background: url(images/bg.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.line {
+  display: block;
+  width: 165px;
+  height: 4px;
+  background: #47b364;
+  margin: 0 auto 21px;
+  min-height: auto;
+}
+
+.line2 {
+display: block;
+    width: 165px;
+    height: 8px;
+    background: #47b364;
+    margin-bottom: 13px;
+}
+
+.old-price {
+    color: rgb(193, 44, 44);
+}
+
+.atual-price {
+  color: rgb(71, 179, 100);
+}
+
+.clearboth {
+  clear: both;
+}
+
+.botaoVerde:hover {
+-webkit-box-shadow: inset 0 -2px 0 rgba(0,0,0,.15);
+-moz-box-shadow: inset 0 -2px 0 rgba(0,0,0,.15);
+box-shadow: inset 0 -2px 0 rgba(0,0,0,.15);
+top: 2px;
+}
+
+.botaoVerde {
+background-color: rgb(71, 179, 100);
+-webkit-box-shadow: inset 0 -4px 0 rgba(0,0,0,.15);
+-moz-box-shadow: inset 0 -4px 0 rgba(0,0,0,.15);
+box-shadow: inset 0 -4px 0 rgba(0,0,0,.15);
+background-color: #47b364;
+color: #fff;
+-webkit-transition: .1s ease-in-out;
+    -moz-transition: .1s ease-in-out;
+    -ms-transition: .1s ease-in-out;
+    -o-transition: .1s ease-in-out;
+    transition: .1s ease-in-out;
+    border: none;
+    outline: none!important;
+    font-size: 21px;
+    width: 660px;
+    display: block;
+    text-decoration: none;
+    padding: 25px 40px;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    top: 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    margin-bottom: 0;
+}
+
+.descricao {
+font-size: 18px;
+color: #7e8890;
+text-align: center;
+line-height: 31px;
+margin-bottom: 57px;
+}
+
+.text-justify {
+text-align: justify;
+}
+
+.image-radius {
+border-radius: 3%;
+}
+
+.gray-bg {
+background-color: #F0EEEE;
+}
+
+.container-fluid .container {
+  margin-top: 50px;
+}
+
+.ico {
+width: 51px;
+    display: block;
+    float: left;
+    text-align: center;
+}
+
+.conteudo {
+margin: 20px;
+border: 2px solid #58B26C;
+border-radius: 5px;
+padding: 5px;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.bigButton {
+
+-webkit-transition: .1s ease-in-out;
+    -moz-transition: .1s ease-in-out;
+    -ms-transition: .1s ease-in-out;
+    -o-transition: .1s ease-in-out;
+    transition: .1s ease-in-out;
+    border: 0;
+    outline: 0!important;
+    font-size: 24px;
+    display: block;
+    text-decoration: none;
+    padding: 22px;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    max-width: 100%;
+    width: 1000px;
+    -webkit-box-shadow: inset 0 -4px 0 rgba(0,0,0,.2);
+    -moz-box-shadow: inset 0 -4px 0 rgba(0,0,0,.2);
+    box-shadow: inset 0 -4px 0 rgba(0,0,0,.2);
+
+    border-radius: 37px;
+
+    font-weight: 700;
+    font-style: 27px;
+    line-height: 25.8px
+}
+
+.verdinho {
+color: rgb(71, 179, 0);
+}
+
+.garantia {
+  background-color: #4AB265;
+  color: white;
+}
+
+.garantiaTitulo {
+font-size: 36px;
+color: #fff;
+margin: 35px 0 14px;
+line-height: 43px;
+font-weight: 700;
+}
+
+.garantiaPequeno {
+font-size: 18px;
+}
+
+footer {
+  background-color: #50404A;
+  font-size: 16px;
+  color: white;
+}
+
+footer * {
+  padding: 10px;
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+}
